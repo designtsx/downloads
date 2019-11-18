@@ -1,2 +1,2 @@
-# downloads
-https://designtsx.com
+# Download DesignTSX
+https://designtsx.com/download
